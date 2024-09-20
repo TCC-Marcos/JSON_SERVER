@@ -1,0 +1,119 @@
+{
+  "produtos": [
+    {
+      "descricao": "Apple iPhone 15 256GB Preto 5G Tela 6,1\" Câm. Traseira 48+12MP Frontal 12MP",
+      "cod_produto": "75K56H",
+      "preco": 5899.90,
+      "estoque": 5,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 1
+    },
+    {
+      "descricao": "Processador AMD Ryzen 5 7600X 4.7GHz/ 5.3GHz Hexa-Core 38MB AM5 - 100-100000593WOF",
+      "cod_produto": "13B56H",
+      "preco": 1498.99,
+      "estoque": 10,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 2
+    },
+    {
+      "descricao": "ROTEADOR TP-LINK AC1350 ARCHER C60",
+      "cod_produto": "49L12B",
+      "preco": 429.98,
+      "estoque": 3,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 3
+    },
+    {
+      "descricao": "Sony Play Station 5 Com 2 controles",
+      "cod_produto": "18F64D",
+      "preco": 4499.99,
+      "estoque": 2,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 4
+    },
+    {
+      "descricao": "Placa de Vídeo Gigabyte NVIDIA GeForce RTX 4060 Gaming OC, 8G, 8GB, GDDR6, DLSS, Ray Tracing",
+      "cod_produto": "35DD56",
+      "preco": 1959.99,
+      "estoque": 0,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 5
+    },
+    {
+      "descricao": "Kingston Memória Ram Fury Renegade Rgb 1x16gb DDR5 7200mhz Colorido",
+      "cod_produto": "DA54A6",
+      "preco": 719.99,
+      "estoque": 10,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 6
+    },
+    {
+      "descricao": "Microsoft Xbox Series X 1TB Standard - Preto",
+      "cod_produto": "D65654",
+      "preco": 4079.89,
+      "estoque": 4,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 7
+    },
+    {
+      "descricao": "Controle Microsoft Xbox Carbon Black, Sem Fio, Para Xbox Series X e S, Preto",
+      "cod_produto": "JH875D",
+      "preco": 329.87,
+      "estoque": 15,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 8
+    },
+    {
+      "descricao": "Microsoft Xbox Series X 1TB Standard - Preto",
+      "cod_produto": "75RSF5",
+      "preco": 4079.65,
+      "estoque": 4,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 9
+    }
+  ],
+  "usuarios": [
+    {
+      "nome_completo": "Marcos Cordeiro Pires",
+      "cpf": 12490825950,
+      "data_nascimento": "2001-12-23",
+      "celular": 45998387463,
+      "permissao": "1",
+      "email": "marcosccpiress15@gmail.com",
+      "senha": "senha",
+      "id": 1
+    }
+  ],
+  "permissoes": [
+    {
+      "cod_permissao": "ADM",
+      "permissao": "Administrador",
+      "id": 1
+    },
+    {
+      "cod_permissao": "GER",
+      "permissao": "Gerente de estoque",
+      "id": 2
+    },
+    {
+      "cod_permissao": "CLI",
+      "permissao": "Cliente",
+      "id": 3
+    },
+    {
+      "cod_permissao": "CON",
+      "permissao": "Consulta",
+      "id": 4
+    }
+  ]
+}
