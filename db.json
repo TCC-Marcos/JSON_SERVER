@@ -80,6 +80,42 @@
       "observacao": "teste",
       "categoria": 1,
       "id": 9
+    },
+    {
+      "descricao": "Kingston Memória Ram Fury Renegade Rgb 1x16gb DDR5 7200mhz Colorido",
+      "cod_produto": "DA54A6",
+      "preco": 719.99,
+      "estoque": 10,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 10
+    },
+    {
+      "descricao": "Microsoft Xbox Series X 1TB Standard - Preto",
+      "cod_produto": "D65654",
+      "preco": 4079.89,
+      "estoque": 4,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 11
+    },
+    {
+      "descricao": "Controle Microsoft Xbox Carbon Black, Sem Fio, Para Xbox Series X e S, Preto",
+      "cod_produto": "JH875D",
+      "preco": 329.87,
+      "estoque": 15,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 12
+    },
+    {
+      "descricao": "Microsoft Xbox Series X 1TB Standard - Preto",
+      "cod_produto": "75RSF5",
+      "preco": 4079.65,
+      "estoque": 4,
+      "observacao": "teste",
+      "categoria": 1,
+      "id": 13
     }
   ],
   "usuarios": [
